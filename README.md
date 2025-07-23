@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Sujit</h1>
+<h3 align="center">A tech enthusiast from India driven by creativity and problem-solving</h3>
 
 ## 🌐 Socials:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31072633) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SujitChavd14590) 
