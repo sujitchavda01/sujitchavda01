@@ -80,5 +80,6 @@
 
 ### 📈 Visitor Count
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=sujitchavda01&icon=0&color=0" />
+  <img src="https://komarev.com/ghpvc/?username=sujitchavda01&color=blue" alt="Profile Views" />
 </p>
+
